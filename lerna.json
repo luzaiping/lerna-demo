@@ -2,10 +2,5 @@
   "packages": [
     "packages/@lemhion1908/*"
   ],
-  "command": {
-    "bootstrap": {
-      "hoist": true
-    }
-  },
   "version": "0.1.4"
 }
