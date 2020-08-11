@@ -3,7 +3,9 @@
   "version": "0.1.1",
   "description": "> TODO: description",
   "author": "zaiping.lu <lemhion1908@gmail.com>",
-  "homepage": "",
+  "repository": "github:luzaiping/lerna-demo",
+  "bugs": "https://github.com/luzaiping/lerna-demo/issues",
+  "homepage": "https://github.com/luzaiping/lerna-demo",
   "license": "ISC",
   "main": "lib/index.js",
   "directories": {
@@ -20,6 +22,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
+    "@lemhion1908/tiny": "^0.1.2",
     "chalk": "^4.1.0",
     "semver": "^7.3.2"
   }
